@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Venue Decoration",
+        "img": "https://i.ibb.co/DQMDjjt/w-venue.jpg",
+        "price": "$2,000 - $5,000",
+        "details": "Create a magical atmosphere with our exquisite venue decoration services. From floral arrangements to lighting, we ensure every detail is perfect for your special day. Our professional decorators will work closely with you to bring your vision to life."
+    },
+    {
+        "id": 2,
+        "title": "Photo and Videography",
+        "img": "https://i.ibb.co/c2K5Hng/w-photography.jpg",
+        "price": "$3,500 - $7,000",
+        "details": "Capture every precious moment with our professional photography and videography services. Our team of skilled photographers will ensure your memories last a lifetime. Packages include photo albums and cinematic highlight videos."
+    },
+    {
+        "id": 3,
+        "title": "Catering Services",
+        "img": "https://i.ibb.co/Tv0bK7t/w-catering.jpg",
+        "price": "$50 - $150 per person",
+        "details": "Indulge your guests with a delightful culinary experience. Our catering services offer a diverse menu to satisfy every palate, making your wedding feast unforgettable. Customized menu options and catering staff included."
+    },
+    {
+        "id": 4,
+        "title": "Entertainment",
+        "img": "https://i.ibb.co/3BhjFGg/w-entertainment.jpg",
+        "price": "$1,500 - $5,000",
+        "details": "Keep the celebration alive with our entertainment services. From live bands to DJs, we'll make sure your guests have a great time and dance the night away. Custom playlists and interactive performances available."
+    },
+    {
+        "id": 5,
+        "title": "Wedding Planning",
+        "img": "https://i.ibb.co/MDbgQLD/w-planning.jpg",
+        "price": "$3,000 - $8,000",
+        "details": "Relax and enjoy your special day while our experienced wedding planners take care of every detail. From timelines to logistics, we've got it all covered. Full-service planning and day-of coordination packages available."
+    },
+    {
+        "id": 6,
+        "title": "Floral Arrangements",
+        "img": "https://i.ibb.co/NFqMX2Q/w-floral-arrangements.jpg",
+        "price": "$500 - $3,000",
+        "details": "Enhance the beauty of your venue with our stunning floral arrangements. From bouquets to centerpieces, our florists will create a picturesque setting for your wedding. Custom floral designs tailored to your theme and colors."
+    }
+]
